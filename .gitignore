@@ -3,9 +3,12 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+<<<<<<< HEAD
 #my directory
 vendor/
 
+=======
+>>>>>>> 5480e1662b910cfeec81a40f54613b7c0edb2604
 # User-specific files
 *.rsuser
 *.suo
